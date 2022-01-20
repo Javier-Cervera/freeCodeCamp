@@ -6,7 +6,7 @@ the appropriate button is clicked. Also, create a reset() method so when the res
 the count is set to 0.
 
 Note: Make sure you don't modify the classNames of the buttons. 
-Also, remember to add the necessary bindings for the newly-created methods in the constructor.
+Also remember to add the necessary bindings for the newly-created methods in the constructor.
 */
 
 class Counter extends React.Component {
